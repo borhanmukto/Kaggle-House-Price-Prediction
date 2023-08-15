@@ -1,3 +1,3 @@
 # Kaggle-House-Price-Prediction
 
-# This was my first try and I scored this. I am currently working on hyperparameter tuning and also feature engineering to Improve the score
+# This was my first attempt at Kaggle Learning Competitions; I am learning more about feature engineering, data processing, data imputation, data scaling, feature encoding, and ensemble methods for supervised ML models.
